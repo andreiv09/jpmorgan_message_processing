@@ -1,0 +1,13 @@
+apple at 10p
+orange juice at 2
+10 sales of pear at 5p
+apple at 10p
+apple at 10p
+add 1p apple
+apple at 10p
+apple at 10p
+multiply 2 pear
+3 sales of wrapping paper at 2.5
+3 sales of wrapping paper at 2.5
+subtract 2p apple
+add 3p wrapping paper
